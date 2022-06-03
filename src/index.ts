@@ -3,7 +3,7 @@ import { config, UserTokenInfo, User, tokenData } from './types'
 const BASEURL = 'https://discord.com/api'
 
 export class OauthApplication {
-    config: config
+    config: confi
     /**
      * Discord Oauth2 Application Class
      * @param config Discord Oauth2 Application Config
